@@ -1,3 +1,5 @@
 spring:
   application:
     name: atlas-flight-booking
+server:
+  port: 8089
